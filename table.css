@@ -1,0 +1,25 @@
+
+
+#user {
+    font-family: Arial, Helvetica, sans-serif;
+    border: 2px solid black;
+    width: 100%;
+  }
+  
+  #user td, #user th {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: center;
+  }
+  
+  #user tr:nth-child(even){background-color: #f2f2f2;}
+  
+  #user tr:hover {background-color: #ddd;}
+  
+  #user th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    
+    background-color:#044082;
+    color: white;
+  }
